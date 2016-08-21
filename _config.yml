@@ -1,0 +1,14 @@
+layout_spectrum: 0.0999100087210536
+typography_spectrum: 0.38529877574183047
+color:
+  brandStrength: 0.7056460299063474
+  lightness: 0.8438836021814495
+  saturation: 0.20755828265100718
+  rhythmicContrast: 0.3595479668583721
+  brandColors:
+    - '#FFFFFF'
+    - '#0D5E91'
+    - '#000000'
+    - '#10263D'
+    - '#ACACAC'
+name: MedMyne Low-Dose CT Lung Cancer Screening
